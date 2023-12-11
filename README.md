@@ -11,6 +11,3 @@ Persistent Storage: Tasks are stored locally, so they persist across browser ses
 Getting Started
 To get started with this project, clone the repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-repository-name.git
