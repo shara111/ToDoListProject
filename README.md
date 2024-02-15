@@ -8,4 +8,3 @@ Add Tasks: Users can add new tasks to the list.
 Mark as Complete: Click on a task to mark it as completed.
 Delete Tasks: Remove tasks from the list.
 Persistent Storage: Tasks are stored locally, so they persist across browser sessions.
-Getting Started
